@@ -1,0 +1,9 @@
+# Ignore user uploads except index.html placeholder
+uploads/*
+!uploads/index.html
+
+# Ignore OS / IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
